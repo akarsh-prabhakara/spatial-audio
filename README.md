@@ -14,4 +14,4 @@ For a quick demo, launch the [GUI](gui/run.fig) in Matlab environment and enjoy!
 
 ### Contributors
 
-Akarsh Prabhakara
+[Akarsh Prabhakara](mailto:akarsh.9996@gmail.com)
