@@ -13,5 +13,4 @@ With this project we aim to show that instead of using HRTFs which require high 
 For a quick demo, launch the [GUI](gui/run.fig) in Matlab environment and enjoy!
 
 ### Contributors
-
-[Akarsh Prabhakara](mailto:akarsh.9996@gmail.com)
+Akarsh Prabhakara
